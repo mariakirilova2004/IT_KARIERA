@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Bubble\Bubble\bin\Debug\Bubble.exe.config
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Bubble\Bubble\bin\Debug\Bubble.exe
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Bubble\Bubble\bin\Debug\Bubble.pdb
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Bubble\Bubble\obj\Debug\Bubble.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Bubble\Bubble\obj\Debug\Bubble.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Bubble\Bubble\obj\Debug\Bubble.exe
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Bubble\Bubble\obj\Debug\Bubble.pdb
