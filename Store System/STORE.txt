@@ -1,0 +1,192 @@
+CreateStore::FoodStore
+
+CreateStore:FreshStore:FoodStore
+
+ReceiveProduct:Food::10:3,29:50:FreshStore
+
+ReceiveProduct:Food:Chicken breasts:-10:3,29:50:FreshStore
+
+ReceiveProduct:Food:Chicken breasts:10:3,29:50:FreshStore
+
+SellProduct:Chicken wings:5:FreshStore
+
+SellProduct:Chicken breasts:3:FreshStore
+
+StoreInfo:InvalidStore
+
+Shutdown
+
+
+CreateStore:FreshStore:FoodStore
+
+ReceiveProduct:Food:Chicken breasts:10:3,29:50:FreshStore
+
+SellProduct:Chicken breasts:5:FreshStore
+
+SellProduct:Chicken breasts:3:FreshStore
+
+StoreInfo:FreshStore
+
+Shutdown
+
+
+
+
+
+
+ private string name;
+
+        public string Name
+        {
+            get { return name; }
+            set
+            {
+                if (value == null || value == "")
+                {
+                    throw new ArgumentException("Product name must not be null or empty!");
+                }
+                else name = value;
+            }
+        }
+
+        private int qantity;
+
+        public new int Quantity
+        {
+            get { return qantity; }
+            set
+            {
+                if (value == 0 || value < 0)
+                {
+                    throw new ArgumentException("Quantity cannot be less or equal to 0!");
+                }
+                else qantity = value;
+            }
+        }
+
+        private double deliverPrice;
+
+        public new double DeliverPrice
+        {
+            get { return deliverPrice; }
+            set
+            {
+                if (value == 0 || value < 0)
+                {
+                    throw new ArgumentException("Deliver price cannot be less or equal to 0!");
+                }
+                else deliverPrice = value;
+            }
+        }
+
+        private double percentageMarkup;
+
+        public override double PercentageMarkup
+        {
+            get { return percentageMarkup; }
+            set
+            {
+                if (value == 0 || value < 0)
+                {
+                    throw new ArgumentException("Percentage markup cannot be less or equal to 0!");
+                }
+                if (value > 200)
+                {
+                    throw new ArgumentException("Drink percentage markup cannot be above 200%!");
+                }
+                else percentageMarkup = value;
+            }
+        }
+
+        public double FinalPrice
+        {
+            get { return DeliverPrice + (DeliverPrice * PercentageMarkup / 100); }
+        }
+
+        public Drink(string name, int quantity, double deliverPrice, double percentageMarkup) : base(name, quantity, deliverPrice, percentageMarkup)
+        {
+            this.Name = name;
+            this.Quantity = quantity;
+            this.DeliverPrice = deliverPrice;
+            this.PercentageMarkup = percentageMarkup;
+        }
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
+
+
+
+
+
+
+
+
+
+//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
+
+//namespace Store_System
+//{
+//    class StartUp
+//    {
+//        static void Main(string[] args)
+//        {
+//            StoreController SC = new StoreController();
+//            List<string> command = Console.ReadLine().Split(':').ToList();
+//            while (command[0] != "Shutdown")
+//            {
+//                if (command[0] == "CreateStore")
+//                {
+//                    try
+//                    {
+//                        Console.WriteLine(SC.CreateStore(command));
+//                    }
+//                    catch (ArgumentException e)
+//                    {
+//                        Console.WriteLine(e.Message);
+//                    }
+//                }
+//                else if (command[0] == "ReceiveProduct")
+//                {
+//                    try
+//                    {
+//                        Console.WriteLine(SC.ReceiveProduct(command));
+//                    }
+//                    catch (ArgumentException e)
+//                    {
+//                        Console.WriteLine(e.Message);
+//                    }
+//                }
+//                else if (command[0] == "SellProduct")
+//                {
+//                    try
+//                    {
+//                        Console.WriteLine(SC.SellProduct(command));
+//                    }
+//                    catch (ArgumentException e)
+//                    {
+//                        Console.WriteLine(e.Message);
+//                    }
+//                }
+//                else if (command[0] == "StoreInfo")
+//                {
+//                    try
+//                    {
+//                        Console.WriteLine(SC.StoreInfo(command));
+//                    }
+//                    catch (ArgumentException e)
+//                    {
+//                        Console.WriteLine(e.Message);
+//                    }
+//                }
+//                command = Console.ReadLine().Split(':').ToList();
+//            }
+//            Console.WriteLine(SC.Shutdown());
+//        }
+//    }
+//}

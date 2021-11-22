@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Store System\Store System\bin\Debug\Store System.exe.config
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Store System\Store System\bin\Debug\Store System.exe
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Store System\Store System\bin\Debug\Store System.pdb
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Store System\Store System\obj\Debug\Store System.csproj.AssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Store System\Store System\obj\Debug\Store System.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Store System\Store System\obj\Debug\Store System.exe
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Store System\Store System\obj\Debug\Store System.pdb
