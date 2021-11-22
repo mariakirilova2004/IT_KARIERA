@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module02\03-Masivi\10_2-1\10_2-1\bin\Debug\10_2-1.exe.config
+C:\Users\User\Documents\IT_Kariera\Module02\03-Masivi\10_2-1\10_2-1\bin\Debug\10_2-1.exe
+C:\Users\User\Documents\IT_Kariera\Module02\03-Masivi\10_2-1\10_2-1\bin\Debug\10_2-1.pdb
+C:\Users\User\Documents\IT_Kariera\Module02\03-Masivi\10_2-1\10_2-1\obj\Debug\10_2-1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module02\03-Masivi\10_2-1\10_2-1\obj\Debug\10_2-1.exe
+C:\Users\User\Documents\IT_Kariera\Module02\03-Masivi\10_2-1\10_2-1\obj\Debug\10_2-1.pdb

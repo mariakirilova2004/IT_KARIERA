@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module02\03-Masivi\10_2-2(Reverse)\10_2-2(Reverse)\bin\Debug\10_2-2(Reverse).exe.config
+C:\Users\User\Documents\IT_Kariera\Module02\03-Masivi\10_2-2(Reverse)\10_2-2(Reverse)\bin\Debug\10_2-2(Reverse).exe
+C:\Users\User\Documents\IT_Kariera\Module02\03-Masivi\10_2-2(Reverse)\10_2-2(Reverse)\bin\Debug\10_2-2(Reverse).pdb
+C:\Users\User\Documents\IT_Kariera\Module02\03-Masivi\10_2-2(Reverse)\10_2-2(Reverse)\obj\Debug\10_2-2(Reverse).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module02\03-Masivi\10_2-2(Reverse)\10_2-2(Reverse)\obj\Debug\10_2-2(Reverse).exe
+C:\Users\User\Documents\IT_Kariera\Module02\03-Masivi\10_2-2(Reverse)\10_2-2(Reverse)\obj\Debug\10_2-2(Reverse).pdb
