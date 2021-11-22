@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\03.01\bin\Debug\03.01.exe.config
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\03.01\bin\Debug\03.01.exe
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\03.01\bin\Debug\03.01.pdb
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\03.01\obj\Debug\03.01.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\03.01\obj\Debug\03.01.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\03.01\obj\Debug\03.01.exe
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\03.01\obj\Debug\03.01.pdb

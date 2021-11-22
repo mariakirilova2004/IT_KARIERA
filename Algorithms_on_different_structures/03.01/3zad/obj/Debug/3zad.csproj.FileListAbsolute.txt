@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\3zad\bin\Debug\3zad.exe.config
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\3zad\bin\Debug\3zad.exe
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\3zad\bin\Debug\3zad.pdb
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\3zad\obj\Debug\3zad.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\3zad\obj\Debug\3zad.exe
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Alg_vyrhu_lineini_str\03.01\3zad\obj\Debug\3zad.pdb
