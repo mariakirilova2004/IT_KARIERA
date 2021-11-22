@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Prime\bin\Debug\Prime.exe.config
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Prime\bin\Debug\Prime.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Prime\bin\Debug\Prime.pdb
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Prime\obj\Debug\Prime.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Prime\obj\Debug\Prime.pdb
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Prime\obj\Debug\Prime.csprojAssemblyReference.cache

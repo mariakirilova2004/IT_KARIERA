@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\SumNum\bin\Debug\SumNum.exe.config
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\SumNum\bin\Debug\SumNum.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\SumNum\bin\Debug\SumNum.pdb
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\SumNum\obj\Debug\SumNum.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\SumNum\obj\Debug\SumNum.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\SumNum\obj\Debug\SumNum.pdb

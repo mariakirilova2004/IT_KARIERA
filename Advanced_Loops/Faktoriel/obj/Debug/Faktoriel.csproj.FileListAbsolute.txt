@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Faktoriel\bin\Debug\Faktoriel.exe.config
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Faktoriel\bin\Debug\Faktoriel.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Faktoriel\bin\Debug\Faktoriel.pdb
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Faktoriel\obj\Debug\Faktoriel.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Faktoriel\obj\Debug\Faktoriel.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Faktoriel\obj\Debug\Faktoriel.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\Faktoriel\obj\Debug\Faktoriel.pdb

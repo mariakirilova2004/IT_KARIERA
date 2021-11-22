@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\EvenWrong\bin\Debug\EvenWrong.exe.config
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\EvenWrong\bin\Debug\EvenWrong.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\EvenWrong\bin\Debug\EvenWrong.pdb
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\EvenWrong\obj\Debug\EvenWrong.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\EvenWrong\obj\Debug\EvenWrong.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\EvenWrong\obj\Debug\EvenWrong.pdb
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced_Loops\EvenWrong\obj\Debug\EvenWrong.csprojAssemblyReference.cache
