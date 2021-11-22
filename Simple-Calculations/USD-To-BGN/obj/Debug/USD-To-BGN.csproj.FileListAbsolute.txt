@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\USD-To-BGN\bin\Debug\USD-To-BGN.exe.config
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\USD-To-BGN\bin\Debug\USD-To-BGN.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\USD-To-BGN\bin\Debug\USD-To-BGN.pdb
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\USD-To-BGN\obj\Debug\USD-To-BGN.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\USD-To-BGN\obj\Debug\USD-To-BGN.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\USD-To-BGN\obj\Debug\USD-To-BGN.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\USD-To-BGN\obj\Debug\USD-To-BGN.pdb

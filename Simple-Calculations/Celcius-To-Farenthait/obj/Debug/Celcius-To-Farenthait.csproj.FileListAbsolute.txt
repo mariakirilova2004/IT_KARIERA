@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Celcius-To-Farenthait\bin\Debug\Celcius-To-Farenthait.exe.config
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Celcius-To-Farenthait\bin\Debug\Celcius-To-Farenthait.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Celcius-To-Farenthait\bin\Debug\Celcius-To-Farenthait.pdb
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Celcius-To-Farenthait\obj\Debug\Celcius-To-Farenthait.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Celcius-To-Farenthait\obj\Debug\Celcius-To-Farenthait.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Celcius-To-Farenthait\obj\Debug\Celcius-To-Farenthait.pdb

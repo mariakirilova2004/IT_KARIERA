@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.exe.config
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.pdb
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.pdb

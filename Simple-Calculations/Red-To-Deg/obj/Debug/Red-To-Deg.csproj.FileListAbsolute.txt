@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Red-To-Deg\bin\Debug\Red-To-Deg.exe.config
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Red-To-Deg\bin\Debug\Red-To-Deg.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Red-To-Deg\bin\Debug\Red-To-Deg.pdb
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Red-To-Deg\obj\Debug\Red-To-Deg.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Red-To-Deg\obj\Debug\Red-To-Deg.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Red-To-Deg\obj\Debug\Red-To-Deg.pdb
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Red-To-Deg\obj\Debug\Red-To-Deg.csprojAssemblyReference.cache

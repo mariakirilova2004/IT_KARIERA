@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.exe.config
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.pdb
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.pdb
