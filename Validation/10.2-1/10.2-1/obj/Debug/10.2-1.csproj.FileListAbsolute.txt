@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Validation\10.2-1\10.2-1\bin\Debug\10.2-1.exe.config
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Validation\10.2-1\10.2-1\bin\Debug\10.2-1.exe
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Validation\10.2-1\10.2-1\bin\Debug\10.2-1.pdb
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Validation\10.2-1\10.2-1\obj\Debug\10.2-1.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Validation\10.2-1\10.2-1\obj\Debug\10.2-1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Validation\10.2-1\10.2-1\obj\Debug\10.2-1.exe
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Validation\10.2-1\10.2-1\obj\Debug\10.2-1.pdb
