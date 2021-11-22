@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module02\04-Debuging_and_Methods\19-6\19-6\bin\Debug\19-6.exe.config
+C:\Users\User\Documents\IT_Kariera\Module02\04-Debuging_and_Methods\19-6\19-6\bin\Debug\19-6.exe
+C:\Users\User\Documents\IT_Kariera\Module02\04-Debuging_and_Methods\19-6\19-6\bin\Debug\19-6.pdb
+C:\Users\User\Documents\IT_Kariera\Module02\04-Debuging_and_Methods\19-6\19-6\obj\Debug\19-6.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module02\04-Debuging_and_Methods\19-6\19-6\obj\Debug\19-6.exe
+C:\Users\User\Documents\IT_Kariera\Module02\04-Debuging_and_Methods\19-6\19-6\obj\Debug\19-6.pdb
