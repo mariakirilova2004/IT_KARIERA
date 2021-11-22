@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Shablonni_klasove-03.1\zad2\bin\Debug\zad2.exe.config
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Shablonni_klasove-03.1\zad2\bin\Debug\zad2.exe
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Shablonni_klasove-03.1\zad2\bin\Debug\zad2.pdb
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Shablonni_klasove-03.1\zad2\obj\Debug\zad2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Shablonni_klasove-03.1\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Shablonni_klasove-03.1\zad2\obj\Debug\zad2.exe
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Shablonni_klasove-03.1\zad2\obj\Debug\zad2.pdb
