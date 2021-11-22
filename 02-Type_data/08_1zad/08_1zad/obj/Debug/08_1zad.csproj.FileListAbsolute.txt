@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module02\08_1zad\08_1zad\bin\Debug\08_1zad.exe.config
+C:\Users\User\Documents\IT_Kariera\Module02\08_1zad\08_1zad\bin\Debug\08_1zad.exe
+C:\Users\User\Documents\IT_Kariera\Module02\08_1zad\08_1zad\bin\Debug\08_1zad.pdb
+C:\Users\User\Documents\IT_Kariera\Module02\08_1zad\08_1zad\obj\Debug\08_1zad.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module02\08_1zad\08_1zad\obj\Debug\08_1zad.exe
+C:\Users\User\Documents\IT_Kariera\Module02\08_1zad\08_1zad\obj\Debug\08_1zad.pdb

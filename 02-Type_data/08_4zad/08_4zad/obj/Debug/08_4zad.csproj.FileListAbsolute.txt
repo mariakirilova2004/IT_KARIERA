@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module02\08_4zad\08_4zad\bin\Debug\08_4zad.exe.config
+C:\Users\User\Documents\IT_Kariera\Module02\08_4zad\08_4zad\bin\Debug\08_4zad.exe
+C:\Users\User\Documents\IT_Kariera\Module02\08_4zad\08_4zad\bin\Debug\08_4zad.pdb
+C:\Users\User\Documents\IT_Kariera\Module02\08_4zad\08_4zad\obj\Debug\08_4zad.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module02\08_4zad\08_4zad\obj\Debug\08_4zad.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module02\08_4zad\08_4zad\obj\Debug\08_4zad.exe
+C:\Users\User\Documents\IT_Kariera\Module02\08_4zad\08_4zad\obj\Debug\08_4zad.pdb
