@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Poleta_i_metodi\03-2\03-2\bin\Debug\03-2.exe.config
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Poleta_i_metodi\03-2\03-2\bin\Debug\03-2.exe
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Poleta_i_metodi\03-2\03-2\bin\Debug\03-2.pdb
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Poleta_i_metodi\03-2\03-2\obj\Debug\03-2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Poleta_i_metodi\03-2\03-2\obj\Debug\03-2.exe
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Poleta_i_metodi\03-2\03-2\obj\Debug\03-2.pdb
