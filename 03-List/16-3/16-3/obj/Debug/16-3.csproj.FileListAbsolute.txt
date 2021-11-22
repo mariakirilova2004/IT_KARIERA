@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\16-3\16-3\bin\Debug\16-3.exe.config
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\16-3\16-3\bin\Debug\16-3.exe
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\16-3\16-3\bin\Debug\16-3.pdb
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\16-3\16-3\obj\Debug\16-3.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\16-3\16-3\obj\Debug\16-3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\16-3\16-3\obj\Debug\16-3.exe
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\16-3\16-3\obj\Debug\16-3.pdb

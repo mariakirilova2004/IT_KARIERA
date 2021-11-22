@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\15-3\15-3\bin\Debug\15-3.exe.config
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\15-3\15-3\bin\Debug\15-3.exe
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\15-3\15-3\bin\Debug\15-3.pdb
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\15-3\15-3\obj\Debug\15-3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\15-3\15-3\obj\Debug\15-3.exe
+C:\Users\User\Documents\IT_Kariera\Module02\03-List\15-3\15-3\obj\Debug\15-3.pdb
