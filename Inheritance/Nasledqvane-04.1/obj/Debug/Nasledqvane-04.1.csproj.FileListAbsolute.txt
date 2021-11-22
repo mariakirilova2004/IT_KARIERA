@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Nasledqvane-04.1\Nasledqvane-04.1\obj\Debug\Nasledqvane-04.1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Nasledqvane-04.1\Nasledqvane-04.1\obj\Debug\Nasledqvane-04.1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Nasledqvane-04.1\Nasledqvane-04.1\bin\Debug\Nasledqvane-04.1.exe.config
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Nasledqvane-04.1\Nasledqvane-04.1\bin\Debug\Nasledqvane-04.1.exe
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Nasledqvane-04.1\Nasledqvane-04.1\bin\Debug\Nasledqvane-04.1.pdb
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Nasledqvane-04.1\Nasledqvane-04.1\obj\Debug\Nasledqvane-04.1.exe
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Nasledqvane-04.1\Nasledqvane-04.1\obj\Debug\Nasledqvane-04.1.pdb
