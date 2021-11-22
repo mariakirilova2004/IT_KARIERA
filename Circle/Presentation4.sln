@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "Circle\Circle.csproj", "{988AB999-2EF6-4E51-8C1D-3E3CAD86AB8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{26DE8B3D-0083-4E7F-A078-BA27ABC65D23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988AB999-2EF6-4E51-8C1D-3E3CAD86AB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988AB999-2EF6-4E51-8C1D-3E3CAD86AB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988AB999-2EF6-4E51-8C1D-3E3CAD86AB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988AB999-2EF6-4E51-8C1D-3E3CAD86AB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26DE8B3D-0083-4E7F-A078-BA27ABC65D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DE8B3D-0083-4E7F-A078-BA27ABC65D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DE8B3D-0083-4E7F-A078-BA27ABC65D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DE8B3D-0083-4E7F-A078-BA27ABC65D23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3981EAD9-43BC-483B-B04A-7C8EC91F742E}
+	EndGlobalSection
+EndGlobal

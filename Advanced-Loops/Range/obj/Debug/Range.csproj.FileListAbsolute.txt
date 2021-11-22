@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Range\bin\Debug\Range.exe.config
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Range\bin\Debug\Range.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Range\bin\Debug\Range.pdb
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Range\obj\Debug\Range.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Range\obj\Debug\Range.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Range\obj\Debug\Range.pdb

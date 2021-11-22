@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Stepen2\bin\Debug\Stepen2.exe.config
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Stepen2\bin\Debug\Stepen2.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Stepen2\bin\Debug\Stepen2.pdb
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Stepen2\obj\Debug\Stepen2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Stepen2\obj\Debug\Stepen2.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Stepen2\obj\Debug\Stepen2.pdb

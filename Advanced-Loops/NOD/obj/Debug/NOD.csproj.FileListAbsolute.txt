@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\NOD\bin\Debug\NOD.exe.config
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\NOD\bin\Debug\NOD.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\NOD\bin\Debug\NOD.pdb
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\NOD\obj\Debug\NOD.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\NOD\obj\Debug\NOD.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\NOD\obj\Debug\NOD.pdb

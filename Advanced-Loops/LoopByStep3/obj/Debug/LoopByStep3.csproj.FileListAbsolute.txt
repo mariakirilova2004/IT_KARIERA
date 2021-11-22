@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\LoopByStep3\bin\Debug\LoopByStep3.exe.config
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\LoopByStep3\bin\Debug\LoopByStep3.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\LoopByStep3\bin\Debug\LoopByStep3.pdb
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\LoopByStep3\obj\Debug\LoopByStep3.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\LoopByStep3\obj\Debug\LoopByStep3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\LoopByStep3\obj\Debug\LoopByStep3.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\LoopByStep3\obj\Debug\LoopByStep3.pdb

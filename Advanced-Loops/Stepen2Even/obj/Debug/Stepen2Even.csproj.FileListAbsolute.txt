@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Stepen2Even\bin\Debug\Stepen2Even.exe.config
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Stepen2Even\bin\Debug\Stepen2Even.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Stepen2Even\bin\Debug\Stepen2Even.pdb
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Stepen2Even\obj\Debug\Stepen2Even.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Stepen2Even\obj\Debug\Stepen2Even.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Advanced-Loops\Stepen2Even\obj\Debug\Stepen2Even.pdb
