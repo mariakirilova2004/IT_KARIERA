@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Merged\Line_Search\Line_Search\bin\Debug\Line_Search.exe.config
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Merged\Line_Search\Line_Search\bin\Debug\Line_Search.exe
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Merged\Line_Search\Line_Search\bin\Debug\Line_Search.pdb
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Merged\Line_Search\Line_Search\obj\Debug\Line_Search.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Merged\Line_Search\Line_Search\obj\Debug\Line_Search.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Merged\Line_Search\Line_Search\obj\Debug\Line_Search.exe
+C:\Users\User\Documents\IT_Kariera\Module04_UASD\Sort\Merged\Line_Search\Line_Search\obj\Debug\Line_Search.pdb
