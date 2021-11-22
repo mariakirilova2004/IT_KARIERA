@@ -1,0 +1,2 @@
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Preizpolzvane_na_klasove\Preizpolzvane_na_klasove\obj\Debug\Preizpolzvane_na_klasove.csproj.AssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Preizpolzvane_na_klasove\Preizpolzvane_na_klasove\obj\Debug\Preizpolzvane_na_klasove.csproj.CoreCompileInputs.cache

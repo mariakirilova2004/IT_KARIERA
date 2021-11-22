@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Preizpolzvane_na_klasove\2\bin\Debug\2.exe.config
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Preizpolzvane_na_klasove\2\bin\Debug\2.exe
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Preizpolzvane_na_klasove\2\bin\Debug\2.pdb
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Preizpolzvane_na_klasove\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Preizpolzvane_na_klasove\2\obj\Debug\2.exe
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Preizpolzvane_na_klasove\2\obj\Debug\2.pdb
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Preizpolzvane_na_klasove\2\obj\Debug\2.csproj.AssemblyReference.cache
