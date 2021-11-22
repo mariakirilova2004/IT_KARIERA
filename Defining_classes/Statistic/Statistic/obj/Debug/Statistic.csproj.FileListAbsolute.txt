@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Definirane_na_klasove\Statistic\Statistic\bin\Debug\Statistic.exe.config
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Definirane_na_klasove\Statistic\Statistic\bin\Debug\Statistic.exe
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Definirane_na_klasove\Statistic\Statistic\bin\Debug\Statistic.pdb
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Definirane_na_klasove\Statistic\Statistic\obj\Debug\Statistic.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Definirane_na_klasove\Statistic\Statistic\obj\Debug\Statistic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Definirane_na_klasove\Statistic\Statistic\obj\Debug\Statistic.exe
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Definirane_na_klasove\Statistic\Statistic\obj\Debug\Statistic.pdb

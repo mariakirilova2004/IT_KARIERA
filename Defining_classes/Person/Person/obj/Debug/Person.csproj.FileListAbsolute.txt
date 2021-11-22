@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Person\Person\bin\Debug\Person.exe.config
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Person\Person\bin\Debug\Person.exe
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Person\Person\bin\Debug\Person.pdb
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Person\Person\obj\Debug\Person.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Person\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Person\Person\obj\Debug\Person.exe
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Person\Person\obj\Debug\Person.pdb
