@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Funkcionalno_programirane\zad5\bin\Debug\zad5.exe.config
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Funkcionalno_programirane\zad5\bin\Debug\zad5.exe
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Funkcionalno_programirane\zad5\bin\Debug\zad5.pdb
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Funkcionalno_programirane\zad5\obj\Debug\zad5.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Funkcionalno_programirane\zad5\obj\Debug\zad5.exe
+C:\Users\User\Documents\IT_Kariera\Module05_ObjectOrientedProgramming\Funkcionalno_programirane\zad5\obj\Debug\zad5.pdb
