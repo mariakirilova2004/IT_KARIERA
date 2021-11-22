@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\zad3\zad3\bin\Debug\zad3.exe.config
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\zad3\zad3\bin\Debug\zad3.exe
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\zad3\zad3\bin\Debug\zad3.pdb
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\zad3\zad3\obj\Debug\zad3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\zad3\zad3\obj\Debug\zad3.exe
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\zad3\zad3\obj\Debug\zad3.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\1zad\1zad\bin\Debug\1zad.exe.config
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\1zad\1zad\bin\Debug\1zad.exe
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\1zad\1zad\bin\Debug\1zad.pdb
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\1zad\1zad\obj\Debug\1zad.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\1zad\1zad\obj\Debug\1zad.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\1zad\1zad\obj\Debug\1zad.exe
+C:\Users\User\Documents\IT_Kariera\Module03_ObjectOrientedProgramming\Static\1zad\1zad\obj\Debug\1zad.pdb
