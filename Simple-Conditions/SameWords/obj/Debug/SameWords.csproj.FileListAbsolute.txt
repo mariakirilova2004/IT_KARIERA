@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\SameWords\bin\Debug\SameWords.exe.config
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\SameWords\bin\Debug\SameWords.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\SameWords\bin\Debug\SameWords.pdb
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\SameWords\obj\Debug\SameWords.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\SameWords\obj\Debug\SameWords.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\SameWords\obj\Debug\SameWords.pdb

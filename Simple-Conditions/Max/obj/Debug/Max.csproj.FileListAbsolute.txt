@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\Max\bin\Debug\Max.exe.config
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\Max\bin\Debug\Max.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\Max\bin\Debug\Max.pdb
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\Max\obj\Debug\Max.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\Max\obj\Debug\Max.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\Max\obj\Debug\Max.pdb

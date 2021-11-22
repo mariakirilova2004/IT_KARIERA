@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\Even or odd\bin\Debug\Even or odd.exe.config
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\Even or odd\bin\Debug\Even or odd.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\Even or odd\bin\Debug\Even or odd.pdb
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\Even or odd\obj\Debug\Even or odd.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\Even or odd\obj\Debug\Even or odd.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\Even or odd\obj\Debug\Even or odd.pdb

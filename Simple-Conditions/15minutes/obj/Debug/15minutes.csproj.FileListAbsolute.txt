@@ -1,0 +1,7 @@
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\15minutes\bin\Debug\15minutes.exe.config
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\15minutes\bin\Debug\15minutes.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\15minutes\bin\Debug\15minutes.pdb
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\15minutes\obj\Debug\15minutes.csprojAssemblyReference.cache
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\15minutes\obj\Debug\15minutes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\15minutes\obj\Debug\15minutes.exe
+C:\Users\User\Documents\IT_Kariera\Simple-Conditions\15minutes\obj\Debug\15minutes.pdb
