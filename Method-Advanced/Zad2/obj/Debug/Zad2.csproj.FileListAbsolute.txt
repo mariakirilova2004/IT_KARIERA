@@ -1,0 +1,6 @@
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Method-Advanced\Zad2\bin\Debug\Zad2.exe.config
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Method-Advanced\Zad2\bin\Debug\Zad2.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Method-Advanced\Zad2\bin\Debug\Zad2.pdb
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Method-Advanced\Zad2\obj\Debug\Zad2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Method-Advanced\Zad2\obj\Debug\Zad2.exe
+C:\Users\User\Documents\IT_Kariera\Module01_Programming Basic\Method-Advanced\Zad2\obj\Debug\Zad2.pdb
