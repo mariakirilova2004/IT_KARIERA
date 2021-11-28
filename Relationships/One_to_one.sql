@@ -1,0 +1,1 @@
+SELECT * FROM one_to_one.persons;
