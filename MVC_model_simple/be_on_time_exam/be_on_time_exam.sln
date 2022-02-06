@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "be_on_time_exam", "be_on_time_exam\be_on_time_exam.csproj", "{309DF7B5-6029-42AE-B4C4-4A6B94D3DF5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309DF7B5-6029-42AE-B4C4-4A6B94D3DF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309DF7B5-6029-42AE-B4C4-4A6B94D3DF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309DF7B5-6029-42AE-B4C4-4A6B94D3DF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309DF7B5-6029-42AE-B4C4-4A6B94D3DF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D84E9F3-743C-4266-833F-398C23CA7E27}
+	EndGlobalSection
+EndGlobal
