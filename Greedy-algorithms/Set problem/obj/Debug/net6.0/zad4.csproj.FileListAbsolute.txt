@@ -1,0 +1,15 @@
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\bin\Debug\net6.0\zad4.exe
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\bin\Debug\net6.0\zad4.deps.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\bin\Debug\net6.0\zad4.runtimeconfig.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\bin\Debug\net6.0\zad4.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\bin\Debug\net6.0\ref\zad4.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\bin\Debug\net6.0\zad4.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\obj\Debug\net6.0\zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\obj\Debug\net6.0\zad4.AssemblyInfoInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\obj\Debug\net6.0\zad4.AssemblyInfo.cs
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\obj\Debug\net6.0\zad4.csproj.CoreCompileInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\obj\Debug\net6.0\zad4.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\obj\Debug\net6.0\ref\zad4.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\obj\Debug\net6.0\zad4.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\obj\Debug\net6.0\zad4.genruntimeconfig.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Greedy-algorithms\zad4\obj\Debug\net6.0\zad4.csproj.AssemblyReference.cache
