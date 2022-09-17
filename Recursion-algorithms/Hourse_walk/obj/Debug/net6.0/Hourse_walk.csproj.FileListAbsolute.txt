@@ -1,0 +1,15 @@
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\obj\Debug\net6.0\Hourse_walk.csproj.AssemblyReference.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\obj\Debug\net6.0\Hourse_walk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\obj\Debug\net6.0\Hourse_walk.AssemblyInfoInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\obj\Debug\net6.0\Hourse_walk.AssemblyInfo.cs
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\obj\Debug\net6.0\Hourse_walk.csproj.CoreCompileInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\bin\Debug\net6.0\Hourse_walk.exe
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\bin\Debug\net6.0\Hourse_walk.deps.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\bin\Debug\net6.0\Hourse_walk.runtimeconfig.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\bin\Debug\net6.0\Hourse_walk.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\bin\Debug\net6.0\ref\Hourse_walk.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\bin\Debug\net6.0\Hourse_walk.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\obj\Debug\net6.0\Hourse_walk.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\obj\Debug\net6.0\ref\Hourse_walk.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\obj\Debug\net6.0\Hourse_walk.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Hourse_walk\obj\Debug\net6.0\Hourse_walk.genruntimeconfig.cache

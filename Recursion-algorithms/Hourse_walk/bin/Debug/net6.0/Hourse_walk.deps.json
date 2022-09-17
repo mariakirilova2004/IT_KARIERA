@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hourse_walk/1.0.0": {
+        "runtime": {
+          "Hourse_walk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hourse_walk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

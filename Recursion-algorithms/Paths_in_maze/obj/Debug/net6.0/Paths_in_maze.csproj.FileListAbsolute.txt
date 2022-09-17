@@ -1,0 +1,15 @@
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\bin\Debug\net6.0\Paths_in_maze.exe
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\bin\Debug\net6.0\Paths_in_maze.deps.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\bin\Debug\net6.0\Paths_in_maze.runtimeconfig.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\bin\Debug\net6.0\Paths_in_maze.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\bin\Debug\net6.0\ref\Paths_in_maze.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\bin\Debug\net6.0\Paths_in_maze.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\obj\Debug\net6.0\Paths_in_maze.csproj.AssemblyReference.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\obj\Debug\net6.0\Paths_in_maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\obj\Debug\net6.0\Paths_in_maze.AssemblyInfoInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\obj\Debug\net6.0\Paths_in_maze.AssemblyInfo.cs
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\obj\Debug\net6.0\Paths_in_maze.csproj.CoreCompileInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\obj\Debug\net6.0\Paths_in_maze.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\obj\Debug\net6.0\ref\Paths_in_maze.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\obj\Debug\net6.0\Paths_in_maze.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\Paths_in_maze\obj\Debug\net6.0\Paths_in_maze.genruntimeconfig.cache

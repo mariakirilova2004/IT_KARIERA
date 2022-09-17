@@ -1,0 +1,15 @@
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\bin\Debug\net6.0\HanoyTower.exe
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\bin\Debug\net6.0\HanoyTower.deps.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\bin\Debug\net6.0\HanoyTower.runtimeconfig.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\bin\Debug\net6.0\HanoyTower.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\bin\Debug\net6.0\ref\HanoyTower.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\bin\Debug\net6.0\HanoyTower.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\obj\Debug\net6.0\HanoyTower.csproj.AssemblyReference.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\obj\Debug\net6.0\HanoyTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\obj\Debug\net6.0\HanoyTower.AssemblyInfoInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\obj\Debug\net6.0\HanoyTower.AssemblyInfo.cs
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\obj\Debug\net6.0\HanoyTower.csproj.CoreCompileInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\obj\Debug\net6.0\HanoyTower.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\obj\Debug\net6.0\ref\HanoyTower.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\obj\Debug\net6.0\HanoyTower.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Recursion-algorithms\HanoyTower\obj\Debug\net6.0\HanoyTower.genruntimeconfig.cache
