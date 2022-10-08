@@ -1,0 +1,15 @@
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\bin\Debug\net6.0\Permutations.exe
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\bin\Debug\net6.0\Permutations.deps.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\bin\Debug\net6.0\Permutations.runtimeconfig.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\bin\Debug\net6.0\Permutations.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\bin\Debug\net6.0\ref\Permutations.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\bin\Debug\net6.0\Permutations.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\obj\Debug\net6.0\Permutations.csproj.AssemblyReference.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\obj\Debug\net6.0\Permutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\obj\Debug\net6.0\Permutations.AssemblyInfoInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\obj\Debug\net6.0\Permutations.AssemblyInfo.cs
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\obj\Debug\net6.0\Permutations.csproj.CoreCompileInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\obj\Debug\net6.0\Permutations.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\obj\Debug\net6.0\ref\Permutations.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\obj\Debug\net6.0\Permutations.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Combinatorics-algorithms\obj\Debug\net6.0\Permutations.genruntimeconfig.cache

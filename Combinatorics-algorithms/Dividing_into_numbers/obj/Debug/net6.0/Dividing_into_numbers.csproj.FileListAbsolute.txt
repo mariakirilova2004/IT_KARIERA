@@ -1,0 +1,15 @@
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\obj\Debug\net6.0\Dividing_into_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\obj\Debug\net6.0\Dividing_into_numbers.AssemblyInfoInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\obj\Debug\net6.0\Dividing_into_numbers.AssemblyInfo.cs
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\obj\Debug\net6.0\Dividing_into_numbers.csproj.CoreCompileInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\bin\Debug\net6.0\Dividing_into_numbers.exe
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\bin\Debug\net6.0\Dividing_into_numbers.deps.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\bin\Debug\net6.0\Dividing_into_numbers.runtimeconfig.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\bin\Debug\net6.0\Dividing_into_numbers.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\bin\Debug\net6.0\ref\Dividing_into_numbers.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\bin\Debug\net6.0\Dividing_into_numbers.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\obj\Debug\net6.0\Dividing_into_numbers.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\obj\Debug\net6.0\ref\Dividing_into_numbers.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\obj\Debug\net6.0\Dividing_into_numbers.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\obj\Debug\net6.0\Dividing_into_numbers.genruntimeconfig.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Dividing_into_numbers\obj\Debug\net6.0\Dividing_into_numbers.csproj.AssemblyReference.cache

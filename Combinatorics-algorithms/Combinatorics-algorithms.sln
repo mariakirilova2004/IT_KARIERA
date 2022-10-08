@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Permutations", "Combinatorics-algorithms\Permutations.csproj", "{46C46083-4C99-4301-A672-01853E337C69}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zero_Sum", "Zero_Sum\Zero_Sum.csproj", "{06D8973C-EA24-4EF2-AAF7-F951956B05AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dividing_into_numbers", "Dividing_into_numbers\Dividing_into_numbers.csproj", "{CD398200-38A9-4003-A215-C7F24E8D332F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dividing_into_numbers_multi", "Dividing_into_numbers_multi\Dividing_into_numbers_multi.csproj", "{6711B17D-CD04-49DB-B5FC-59EA2C9BECFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C46083-4C99-4301-A672-01853E337C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C46083-4C99-4301-A672-01853E337C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C46083-4C99-4301-A672-01853E337C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C46083-4C99-4301-A672-01853E337C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D8973C-EA24-4EF2-AAF7-F951956B05AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D8973C-EA24-4EF2-AAF7-F951956B05AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D8973C-EA24-4EF2-AAF7-F951956B05AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D8973C-EA24-4EF2-AAF7-F951956B05AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD398200-38A9-4003-A215-C7F24E8D332F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD398200-38A9-4003-A215-C7F24E8D332F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD398200-38A9-4003-A215-C7F24E8D332F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD398200-38A9-4003-A215-C7F24E8D332F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6711B17D-CD04-49DB-B5FC-59EA2C9BECFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6711B17D-CD04-49DB-B5FC-59EA2C9BECFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6711B17D-CD04-49DB-B5FC-59EA2C9BECFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6711B17D-CD04-49DB-B5FC-59EA2C9BECFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54384F36-A919-40A1-84C6-6A474F3BBFF1}
+	EndGlobalSection
+EndGlobal

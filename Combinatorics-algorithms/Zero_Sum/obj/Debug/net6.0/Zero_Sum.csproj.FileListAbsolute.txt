@@ -1,0 +1,15 @@
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\bin\Debug\net6.0\Zero_Sum.exe
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\bin\Debug\net6.0\Zero_Sum.deps.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\bin\Debug\net6.0\Zero_Sum.runtimeconfig.json
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\bin\Debug\net6.0\Zero_Sum.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\bin\Debug\net6.0\ref\Zero_Sum.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\bin\Debug\net6.0\Zero_Sum.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\obj\Debug\net6.0\Zero_Sum.csproj.AssemblyReference.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\obj\Debug\net6.0\Zero_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\obj\Debug\net6.0\Zero_Sum.AssemblyInfoInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\obj\Debug\net6.0\Zero_Sum.AssemblyInfo.cs
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\obj\Debug\net6.0\Zero_Sum.csproj.CoreCompileInputs.cache
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\obj\Debug\net6.0\Zero_Sum.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\obj\Debug\net6.0\ref\Zero_Sum.dll
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\obj\Debug\net6.0\Zero_Sum.pdb
+C:\Maria\IT_Kariera\01 - Algorithms and data structures\Combinatorics-algorithms\Zero_Sum\obj\Debug\net6.0\Zero_Sum.genruntimeconfig.cache
